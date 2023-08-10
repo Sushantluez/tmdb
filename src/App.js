@@ -26,6 +26,7 @@ const App = () => {
     <div>
       <Routes>
 
+
         <Route path='/' element={<RootLayOut />}>
 
 
@@ -56,8 +57,8 @@ const App = () => {
 
 
 
-
       </Routes>
+
 
 
 
